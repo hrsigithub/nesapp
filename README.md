@@ -6,3 +6,8 @@
 1. ./setenv.sh
 1. cd hello
 1. make
+
+
+### 不明点
+
+include pathの設定方法は？
